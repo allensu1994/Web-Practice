@@ -1,0 +1,18 @@
+.wrapper{
+	height: 100%;
+	width: 100%;
+
+}
+.box{
+	background-color: blue;
+	height: 10px;
+	width: 10px;
+	float: left;
+	display: inline;
+	border:2px;
+	border-color: black;
+}
+tr{
+	width: auto;
+	height:10px;
+}
