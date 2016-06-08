@@ -26,6 +26,17 @@ body{
 	border-width: 0.5px;
 	border: solid #000;
 }
+
 .grid{
 	margin: 0 auto;
+}
+button{
+	background-color: #34495e;
+	font-weight:		bold;
+	font-size:		14px;
+	padding:		10px 20px;
+	color:			white;
+	height: 50px;
+	width: 200px;
+	margin-bottom: 10px;
 }
